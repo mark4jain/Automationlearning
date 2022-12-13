@@ -10,7 +10,7 @@ public class WebDriverBasics {
 		//start the selenium server with binary.exe file
 		WebDriver driver = new ChromeDriver();
 	
-System.out.println();
+System.out.println("tre");
 	}
 
 }
